@@ -1,6 +1,14 @@
-# Лабораторные по тестированию ПО.
-## [Хабр](https://habr.com)
----
+# Лабораторные по тестированию ПО
+<div align="center">
+   <img src="https://media.tenor.com/uc9LvlROvfMAAAAC/gigachad-884kb.gif"  height="250" width ="400"/>
+</div>
+
+<div align="center">
+ <h2><a href="https://habr.com" font-size="20">Habr<a/><br/>
+    <br/></h2>
+    
+</div>
+      
 ### Позитивное тестирование:
 1. В окно поиска введено название статьи(прим. goroutines)
    - Ожидание: Вывод нескольких статей о горутинах
